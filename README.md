@@ -1,1 +1,3 @@
-Un simple bot anti captcha
+A PHP bot that can pass CAPTCHAs
+
+Un bot PHP qui permet de passer les CAPTCHAs
