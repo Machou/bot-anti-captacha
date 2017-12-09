@@ -1,4 +1,4 @@
-<h1>Bot Anti Captcha</h1>
+# Bot Anti Captcha
 
 A PHP bot that can pass CAPTCHAs.
 
